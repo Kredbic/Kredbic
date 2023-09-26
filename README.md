@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Game**
 
-- 🌱 I’m currently learning **Jss, Java, (C++, Blender - trying to achive higher level)**
+- 🌱 I’m currently learning **Js, Java, (C++, Blender - trying to achive higher level)**
 
 - 📫 How to reach me **the best way to contact me is through discord**
 
