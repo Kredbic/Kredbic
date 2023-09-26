@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Petr Kredba</h1>
 <h3 align="center">Student on spšmb</h3>
 
-- 🔭 I’m currently working on **Game**
-
 - 🌱 I’m currently learning **Js, Java, (C++, Blender - trying to achive higher level)**
 
 - 📫 How to reach me **the best way to contact me is through discord**
