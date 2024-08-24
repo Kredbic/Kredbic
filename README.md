@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Petr Kredba</h1>
+<h1 align="center"></h1>
 <h3 align="center">Student on spšmb</h3>
 
 - 🌱 I’m currently learning **Js, Java, (C++, Blender - trying to achive higher level)**
